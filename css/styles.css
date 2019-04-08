@@ -1,0 +1,42 @@
+a {
+text-decoration:none;
+}
+a:hover{
+  text-decoration: none;
+  color: pink;
+}
+body {
+  background-color: grey;
+}
+
+hr {
+  border: none;
+  border-top: dotted white;
+
+  border-width: thick;
+
+
+}
+
+h1 {
+  font-size: 40px;
+  color: white;
+
+}
+
+p {
+  color: white;
+}
+
+h3 {
+  color: white;
+}
+
+li {
+  color: white;
+}
+
+
+body
+{font-family: 'Montserrat-Black', sans-serif;
+font-weight: 900;}
